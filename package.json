@@ -1,0 +1,15 @@
+{
+  "name": "electron-redux",
+  "version": "1.0.0",
+  "description": "A simple demo of using Electron with Redux Toolkit",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Brock Herion",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1",
+    "electron": "^12.0.5"
+  }
+}
